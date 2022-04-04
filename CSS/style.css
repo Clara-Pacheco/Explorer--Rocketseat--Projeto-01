@@ -1,0 +1,92 @@
+.gray-container {
+  background-color: #E5E5E5;
+  width: 100%;
+  height:100%;
+}
+
+.white-container {
+  width: 1280px;
+  height: 720px;
+  background-color: #ffffff;
+  
+  
+}
+
+.hero {
+  width: 592px;
+  height: 579px;
+}
+
+.image {
+  width: 348px;
+  height: 223px;
+  
+}
+
+.header-text {
+  width: 592px;
+  height: 284px;
+}
+
+.footer {
+  width: 592px;
+  height: 36px;
+}
+
+.balls-decoration {
+  width: 98.39px;
+  height: 88px;
+}
+
+.title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 49px;
+  line-height: 56px;
+  text-align: center;
+  color: #000000;
+}
+
+.title .unicos {
+  color:#FF9900;
+  ;
+}
+
+.header-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.dedicacao, 
+.ambientes {
+  color:  #FF9900;
+}
+
+.line {
+  width: 592px;
+  border: 1px solid #ECEFF2;
+}
+
+.footer {
+  font-family:  'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;    
+ 
+}
+.instagram,
+.fale-conosco {
+  color:#FF9900;
+ 
+}
+
+
+
+
+
+
