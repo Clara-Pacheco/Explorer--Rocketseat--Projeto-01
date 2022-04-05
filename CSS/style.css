@@ -26,7 +26,12 @@
 .image {
   width: 348px;
   height: 223px;
-  
+  position: relative;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 72px;
+ 
 }
 
 .header-text {
@@ -43,8 +48,8 @@
   width: 98.39px;
   height: 88px;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  left: 1194px;
+  top: 642px;
 }
 
 .title {
@@ -55,6 +60,15 @@
   line-height: 56px;
   text-align: center;
   color: #000000;
+  margin-bottom: 32px;
+}
+
+.first-paragraph {
+  margin-bottom: 32px;
+}
+
+.second-paragraph {
+  margin-bottom: 72px;
 }
 
 .title .unicos {
@@ -112,7 +126,7 @@
   color:#FF9900;
   position: absolute;
   top: 665px;
-  left: 495px;
+  left: 450px;
   right: 348px;
   bottom: 33px;
  
