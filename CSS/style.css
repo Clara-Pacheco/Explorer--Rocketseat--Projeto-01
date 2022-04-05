@@ -73,7 +73,7 @@
 
 .title .unicos {
   color:#FF9900;
-  ;
+  font-weight: 700;
 }
 
 .header-text {
@@ -87,6 +87,10 @@
 .dedicacao, 
 .ambientes {
   color:  #FF9900;
+}
+
+strong {
+  font-weight: 700;
 }
 
 .line {
