@@ -110,9 +110,7 @@ strong {
   position: absolute;
   top: 665px;
   left: 225px;
-  right: 348px;
-  bottom: 33px;
- 
+  right: 348px; 
 }
 
 .fale-conosco {
@@ -126,8 +124,7 @@ strong {
   top: 665px;
   left: 440px;
   right: 348px;
-  bottom: 33px;
- 
+
 }
 
 .footer a + a {
